@@ -1,0 +1,16 @@
+C:\day5\Collectionp\bin\Debug\net5.0\Collectionp.exe
+C:\day5\Collectionp\bin\Debug\net5.0\Collectionp.deps.json
+C:\day5\Collectionp\bin\Debug\net5.0\Collectionp.runtimeconfig.json
+C:\day5\Collectionp\bin\Debug\net5.0\Collectionp.runtimeconfig.dev.json
+C:\day5\Collectionp\bin\Debug\net5.0\Collectionp.dll
+C:\day5\Collectionp\bin\Debug\net5.0\ref\Collectionp.dll
+C:\day5\Collectionp\bin\Debug\net5.0\Collectionp.pdb
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.csproj.AssemblyReference.cache
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.GeneratedMSBuildEditorConfig.editorconfig
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.AssemblyInfoInputs.cache
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.AssemblyInfo.cs
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.csproj.CoreCompileInputs.cache
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.dll
+C:\day5\Collectionp\obj\Debug\net5.0\ref\Collectionp.dll
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.pdb
+C:\day5\Collectionp\obj\Debug\net5.0\Collectionp.genruntimeconfig.cache

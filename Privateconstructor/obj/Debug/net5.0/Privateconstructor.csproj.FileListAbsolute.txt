@@ -1,0 +1,16 @@
+C:\Privateconstructor\bin\Debug\net5.0\Privateconstructor.exe
+C:\Privateconstructor\bin\Debug\net5.0\Privateconstructor.deps.json
+C:\Privateconstructor\bin\Debug\net5.0\Privateconstructor.runtimeconfig.json
+C:\Privateconstructor\bin\Debug\net5.0\Privateconstructor.runtimeconfig.dev.json
+C:\Privateconstructor\bin\Debug\net5.0\Privateconstructor.dll
+C:\Privateconstructor\bin\Debug\net5.0\ref\Privateconstructor.dll
+C:\Privateconstructor\bin\Debug\net5.0\Privateconstructor.pdb
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.csproj.AssemblyReference.cache
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.AssemblyInfoInputs.cache
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.AssemblyInfo.cs
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.csproj.CoreCompileInputs.cache
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.dll
+C:\Privateconstructor\obj\Debug\net5.0\ref\Privateconstructor.dll
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.pdb
+C:\Privateconstructor\obj\Debug\net5.0\Privateconstructor.genruntimeconfig.cache

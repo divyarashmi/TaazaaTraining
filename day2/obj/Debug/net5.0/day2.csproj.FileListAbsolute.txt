@@ -1,0 +1,16 @@
+C:\day2\bin\Debug\net5.0\day2.exe
+C:\day2\bin\Debug\net5.0\day2.deps.json
+C:\day2\bin\Debug\net5.0\day2.runtimeconfig.json
+C:\day2\bin\Debug\net5.0\day2.runtimeconfig.dev.json
+C:\day2\bin\Debug\net5.0\day2.dll
+C:\day2\bin\Debug\net5.0\ref\day2.dll
+C:\day2\bin\Debug\net5.0\day2.pdb
+C:\day2\obj\Debug\net5.0\day2.csproj.AssemblyReference.cache
+C:\day2\obj\Debug\net5.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\day2\obj\Debug\net5.0\day2.AssemblyInfoInputs.cache
+C:\day2\obj\Debug\net5.0\day2.AssemblyInfo.cs
+C:\day2\obj\Debug\net5.0\day2.csproj.CoreCompileInputs.cache
+C:\day2\obj\Debug\net5.0\day2.dll
+C:\day2\obj\Debug\net5.0\ref\day2.dll
+C:\day2\obj\Debug\net5.0\day2.pdb
+C:\day2\obj\Debug\net5.0\day2.genruntimeconfig.cache

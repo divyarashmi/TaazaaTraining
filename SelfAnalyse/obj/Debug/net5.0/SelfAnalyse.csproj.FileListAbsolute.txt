@@ -1,0 +1,16 @@
+C:\Users\Divya Rashmi\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.exe
+C:\Users\Divya Rashmi\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.deps.json
+C:\Users\Divya Rashmi\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.runtimeconfig.json
+C:\Users\Divya Rashmi\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.runtimeconfig.dev.json
+C:\Users\Divya Rashmi\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.dll
+C:\Users\Divya Rashmi\SelfAnalyse\bin\Debug\net5.0\ref\SelfAnalyse.dll
+C:\Users\Divya Rashmi\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.pdb
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.csproj.AssemblyReference.cache
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.AssemblyInfoInputs.cache
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.AssemblyInfo.cs
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.dll
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\ref\SelfAnalyse.dll
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.pdb
+C:\Users\Divya Rashmi\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.genruntimeconfig.cache
