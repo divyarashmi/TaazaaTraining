@@ -1,0 +1,16 @@
+D:\TRAINING\Day9\ActionDele\bin\Debug\net5.0\ActionDele.exe
+D:\TRAINING\Day9\ActionDele\bin\Debug\net5.0\ActionDele.deps.json
+D:\TRAINING\Day9\ActionDele\bin\Debug\net5.0\ActionDele.runtimeconfig.json
+D:\TRAINING\Day9\ActionDele\bin\Debug\net5.0\ActionDele.runtimeconfig.dev.json
+D:\TRAINING\Day9\ActionDele\bin\Debug\net5.0\ActionDele.dll
+D:\TRAINING\Day9\ActionDele\bin\Debug\net5.0\ref\ActionDele.dll
+D:\TRAINING\Day9\ActionDele\bin\Debug\net5.0\ActionDele.pdb
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.csproj.AssemblyReference.cache
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.AssemblyInfoInputs.cache
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.AssemblyInfo.cs
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.csproj.CoreCompileInputs.cache
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.dll
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ref\ActionDele.dll
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.pdb
+D:\TRAINING\Day9\ActionDele\obj\Debug\net5.0\ActionDele.genruntimeconfig.cache
