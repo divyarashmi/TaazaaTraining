@@ -1,0 +1,16 @@
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+C:\Users\Divya Rashmi\Day9\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache
