@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = ExceptionHandling
-build_property.ProjectDir = d:\TRAINING\Day9\ExceptionHandling\
+build_property.RootNamespace = PraticeProg
+build_property.ProjectDir = c:\Users\Divya Rashmi\Day9\PraticeProg\

@@ -1,0 +1,16 @@
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.csproj.AssemblyReference.cache
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.AssemblyInfoInputs.cache
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.AssemblyInfo.cs
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.csproj.CoreCompileInputs.cache
+D:\TRAINING\Day9\FunctionDele\bin\Debug\net5.0\FunctionDele.exe
+D:\TRAINING\Day9\FunctionDele\bin\Debug\net5.0\FunctionDele.deps.json
+D:\TRAINING\Day9\FunctionDele\bin\Debug\net5.0\FunctionDele.runtimeconfig.json
+D:\TRAINING\Day9\FunctionDele\bin\Debug\net5.0\FunctionDele.runtimeconfig.dev.json
+D:\TRAINING\Day9\FunctionDele\bin\Debug\net5.0\FunctionDele.dll
+D:\TRAINING\Day9\FunctionDele\bin\Debug\net5.0\ref\FunctionDele.dll
+D:\TRAINING\Day9\FunctionDele\bin\Debug\net5.0\FunctionDele.pdb
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.dll
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\ref\FunctionDele.dll
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.pdb
+D:\TRAINING\Day9\FunctionDele\obj\Debug\net5.0\FunctionDele.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\TRAINING\Day9\PredicateDele\bin\Debug\net5.0\PredicateDele.exe
+D:\TRAINING\Day9\PredicateDele\bin\Debug\net5.0\PredicateDele.deps.json
+D:\TRAINING\Day9\PredicateDele\bin\Debug\net5.0\PredicateDele.runtimeconfig.json
+D:\TRAINING\Day9\PredicateDele\bin\Debug\net5.0\PredicateDele.runtimeconfig.dev.json
+D:\TRAINING\Day9\PredicateDele\bin\Debug\net5.0\PredicateDele.dll
+D:\TRAINING\Day9\PredicateDele\bin\Debug\net5.0\ref\PredicateDele.dll
+D:\TRAINING\Day9\PredicateDele\bin\Debug\net5.0\PredicateDele.pdb
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.csproj.AssemblyReference.cache
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.AssemblyInfoInputs.cache
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.AssemblyInfo.cs
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.csproj.CoreCompileInputs.cache
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.dll
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\ref\PredicateDele.dll
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.pdb
+D:\TRAINING\Day9\PredicateDele\obj\Debug\net5.0\PredicateDele.genruntimeconfig.cache
