@@ -1,0 +1,16 @@
+D:\TRAINING\Array1\bin\Debug\net5.0\Array1.exe
+D:\TRAINING\Array1\bin\Debug\net5.0\Array1.deps.json
+D:\TRAINING\Array1\bin\Debug\net5.0\Array1.runtimeconfig.json
+D:\TRAINING\Array1\bin\Debug\net5.0\Array1.runtimeconfig.dev.json
+D:\TRAINING\Array1\bin\Debug\net5.0\Array1.dll
+D:\TRAINING\Array1\bin\Debug\net5.0\ref\Array1.dll
+D:\TRAINING\Array1\bin\Debug\net5.0\Array1.pdb
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.csproj.AssemblyReference.cache
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.AssemblyInfoInputs.cache
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.AssemblyInfo.cs
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.csproj.CoreCompileInputs.cache
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.dll
+D:\TRAINING\Array1\obj\Debug\net5.0\ref\Array1.dll
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.pdb
+D:\TRAINING\Array1\obj\Debug\net5.0\Array1.genruntimeconfig.cache
