@@ -1,0 +1,16 @@
+D:\TRAINING\PartialClass\bin\Debug\net5.0\PartialClass.exe
+D:\TRAINING\PartialClass\bin\Debug\net5.0\PartialClass.deps.json
+D:\TRAINING\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.json
+D:\TRAINING\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.dev.json
+D:\TRAINING\PartialClass\bin\Debug\net5.0\PartialClass.dll
+D:\TRAINING\PartialClass\bin\Debug\net5.0\ref\PartialClass.dll
+D:\TRAINING\PartialClass\bin\Debug\net5.0\PartialClass.pdb
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.csproj.AssemblyReference.cache
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfoInputs.cache
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfo.cs
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.csproj.CoreCompileInputs.cache
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.dll
+D:\TRAINING\PartialClass\obj\Debug\net5.0\ref\PartialClass.dll
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.pdb
+D:\TRAINING\PartialClass\obj\Debug\net5.0\PartialClass.genruntimeconfig.cache

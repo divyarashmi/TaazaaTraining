@@ -1,0 +1,10 @@
+namespace PartialClass.PartiClass
+{
+    public partial class Person
+    {
+        public int getid()
+        {
+            return id;
+        }
+    }
+}
