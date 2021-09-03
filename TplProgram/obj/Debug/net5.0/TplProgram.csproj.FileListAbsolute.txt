@@ -1,0 +1,5 @@
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.csproj.AssemblyReference.cache
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.AssemblyInfoInputs.cache
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.AssemblyInfo.cs
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.csproj.CoreCompileInputs.cache

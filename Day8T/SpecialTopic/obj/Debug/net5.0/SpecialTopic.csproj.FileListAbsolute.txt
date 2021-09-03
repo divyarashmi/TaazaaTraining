@@ -1,0 +1,16 @@
+D:\TRAINING\Day8T\SpecialTopic\bin\Debug\net5.0\SpecialTopic.exe
+D:\TRAINING\Day8T\SpecialTopic\bin\Debug\net5.0\SpecialTopic.deps.json
+D:\TRAINING\Day8T\SpecialTopic\bin\Debug\net5.0\SpecialTopic.runtimeconfig.json
+D:\TRAINING\Day8T\SpecialTopic\bin\Debug\net5.0\SpecialTopic.runtimeconfig.dev.json
+D:\TRAINING\Day8T\SpecialTopic\bin\Debug\net5.0\SpecialTopic.dll
+D:\TRAINING\Day8T\SpecialTopic\bin\Debug\net5.0\ref\SpecialTopic.dll
+D:\TRAINING\Day8T\SpecialTopic\bin\Debug\net5.0\SpecialTopic.pdb
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.csproj.AssemblyReference.cache
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.AssemblyInfoInputs.cache
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.AssemblyInfo.cs
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.csproj.CoreCompileInputs.cache
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.dll
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\ref\SpecialTopic.dll
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.pdb
+D:\TRAINING\Day8T\SpecialTopic\obj\Debug\net5.0\SpecialTopic.genruntimeconfig.cache

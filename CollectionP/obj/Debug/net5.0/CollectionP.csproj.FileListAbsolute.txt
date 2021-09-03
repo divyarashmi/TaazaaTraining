@@ -1,0 +1,16 @@
+D:\TRAINING\CollectionP\bin\Debug\net5.0\CollectionP.exe
+D:\TRAINING\CollectionP\bin\Debug\net5.0\CollectionP.deps.json
+D:\TRAINING\CollectionP\bin\Debug\net5.0\CollectionP.runtimeconfig.json
+D:\TRAINING\CollectionP\bin\Debug\net5.0\CollectionP.runtimeconfig.dev.json
+D:\TRAINING\CollectionP\bin\Debug\net5.0\CollectionP.dll
+D:\TRAINING\CollectionP\bin\Debug\net5.0\ref\CollectionP.dll
+D:\TRAINING\CollectionP\bin\Debug\net5.0\CollectionP.pdb
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.csproj.AssemblyReference.cache
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.AssemblyInfoInputs.cache
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.AssemblyInfo.cs
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.csproj.CoreCompileInputs.cache
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.dll
+D:\TRAINING\CollectionP\obj\Debug\net5.0\ref\CollectionP.dll
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.pdb
+D:\TRAINING\CollectionP\obj\Debug\net5.0\CollectionP.genruntimeconfig.cache

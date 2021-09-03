@@ -1,0 +1,5 @@
+D:\TRAINING\day12\indexerp\obj\Debug\net5.0\indexerp.csproj.AssemblyReference.cache
+D:\TRAINING\day12\indexerp\obj\Debug\net5.0\indexerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\day12\indexerp\obj\Debug\net5.0\indexerp.AssemblyInfoInputs.cache
+D:\TRAINING\day12\indexerp\obj\Debug\net5.0\indexerp.AssemblyInfo.cs
+D:\TRAINING\day12\indexerp\obj\Debug\net5.0\indexerp.csproj.CoreCompileInputs.cache

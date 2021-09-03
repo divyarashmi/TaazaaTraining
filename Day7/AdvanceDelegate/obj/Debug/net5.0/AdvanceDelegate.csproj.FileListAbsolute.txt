@@ -1,0 +1,16 @@
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\bin\Debug\net5.0\AdvanceDelegate.exe
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\bin\Debug\net5.0\AdvanceDelegate.deps.json
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\bin\Debug\net5.0\AdvanceDelegate.runtimeconfig.json
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\bin\Debug\net5.0\AdvanceDelegate.runtimeconfig.dev.json
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\bin\Debug\net5.0\AdvanceDelegate.dll
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\bin\Debug\net5.0\ref\AdvanceDelegate.dll
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\bin\Debug\net5.0\AdvanceDelegate.pdb
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.csproj.AssemblyReference.cache
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.AssemblyInfoInputs.cache
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.AssemblyInfo.cs
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.dll
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\ref\AdvanceDelegate.dll
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.pdb
+C:\Users\Divya Rashmi\Day7\AdvanceDelegate\obj\Debug\net5.0\AdvanceDelegate.genruntimeconfig.cache

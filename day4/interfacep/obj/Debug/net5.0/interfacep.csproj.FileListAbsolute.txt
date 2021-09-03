@@ -1,0 +1,16 @@
+C:\Users\Divya Rashmi\day4\interfacep\bin\Debug\net5.0\interfacep.exe
+C:\Users\Divya Rashmi\day4\interfacep\bin\Debug\net5.0\interfacep.deps.json
+C:\Users\Divya Rashmi\day4\interfacep\bin\Debug\net5.0\interfacep.runtimeconfig.json
+C:\Users\Divya Rashmi\day4\interfacep\bin\Debug\net5.0\interfacep.runtimeconfig.dev.json
+C:\Users\Divya Rashmi\day4\interfacep\bin\Debug\net5.0\interfacep.dll
+C:\Users\Divya Rashmi\day4\interfacep\bin\Debug\net5.0\ref\interfacep.dll
+C:\Users\Divya Rashmi\day4\interfacep\bin\Debug\net5.0\interfacep.pdb
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.csproj.AssemblyReference.cache
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.AssemblyInfoInputs.cache
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.AssemblyInfo.cs
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.csproj.CoreCompileInputs.cache
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.dll
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\ref\interfacep.dll
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.pdb
+C:\Users\Divya Rashmi\day4\interfacep\obj\Debug\net5.0\interfacep.genruntimeconfig.cache

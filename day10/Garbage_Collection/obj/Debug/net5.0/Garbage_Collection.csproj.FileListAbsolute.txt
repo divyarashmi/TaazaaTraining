@@ -1,0 +1,16 @@
+D:\TRAINING\day10\Garbage_Collection\bin\Debug\net5.0\Garbage_Collection.exe
+D:\TRAINING\day10\Garbage_Collection\bin\Debug\net5.0\Garbage_Collection.deps.json
+D:\TRAINING\day10\Garbage_Collection\bin\Debug\net5.0\Garbage_Collection.runtimeconfig.json
+D:\TRAINING\day10\Garbage_Collection\bin\Debug\net5.0\Garbage_Collection.runtimeconfig.dev.json
+D:\TRAINING\day10\Garbage_Collection\bin\Debug\net5.0\Garbage_Collection.dll
+D:\TRAINING\day10\Garbage_Collection\bin\Debug\net5.0\ref\Garbage_Collection.dll
+D:\TRAINING\day10\Garbage_Collection\bin\Debug\net5.0\Garbage_Collection.pdb
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.csproj.AssemblyReference.cache
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.AssemblyInfoInputs.cache
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.AssemblyInfo.cs
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.csproj.CoreCompileInputs.cache
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.dll
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\ref\Garbage_Collection.dll
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.pdb
+D:\TRAINING\day10\Garbage_Collection\obj\Debug\net5.0\Garbage_Collection.genruntimeconfig.cache

@@ -15,9 +15,9 @@ namespace ExceptionHandling.Customer
             try{
                 result=x/y;
             }
-            catch(ArithmeticException )
+            catch(ArithmeticException ex)
             {
-                Console.WriteLine("Hello");
+                Console.WriteLine("Hello",ex);
             }
             finally{
                 Console.WriteLine(result);

@@ -1,0 +1,16 @@
+D:\TRAINING\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.exe
+D:\TRAINING\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.deps.json
+D:\TRAINING\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.runtimeconfig.json
+D:\TRAINING\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.runtimeconfig.dev.json
+D:\TRAINING\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.dll
+D:\TRAINING\MajorLogicApplication\bin\Debug\net5.0\ref\MajorLogicApplication.dll
+D:\TRAINING\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.pdb
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.csproj.AssemblyReference.cache
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.AssemblyInfoInputs.cache
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.AssemblyInfo.cs
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.csproj.CoreCompileInputs.cache
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.dll
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\ref\MajorLogicApplication.dll
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.pdb
+D:\TRAINING\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.genruntimeconfig.cache

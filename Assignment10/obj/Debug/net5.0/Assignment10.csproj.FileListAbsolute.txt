@@ -1,0 +1,16 @@
+D:\TRAINING\Assignment10\bin\Debug\net5.0\Assignment10.exe
+D:\TRAINING\Assignment10\bin\Debug\net5.0\Assignment10.deps.json
+D:\TRAINING\Assignment10\bin\Debug\net5.0\Assignment10.runtimeconfig.json
+D:\TRAINING\Assignment10\bin\Debug\net5.0\Assignment10.runtimeconfig.dev.json
+D:\TRAINING\Assignment10\bin\Debug\net5.0\Assignment10.dll
+D:\TRAINING\Assignment10\bin\Debug\net5.0\ref\Assignment10.dll
+D:\TRAINING\Assignment10\bin\Debug\net5.0\Assignment10.pdb
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.csproj.AssemblyReference.cache
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.AssemblyInfoInputs.cache
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.AssemblyInfo.cs
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.csproj.CoreCompileInputs.cache
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.dll
+D:\TRAINING\Assignment10\obj\Debug\net5.0\ref\Assignment10.dll
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.pdb
+D:\TRAINING\Assignment10\obj\Debug\net5.0\Assignment10.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\TRAINING\ListApplication\bin\Debug\net5.0\ListApplication.exe
+D:\TRAINING\ListApplication\bin\Debug\net5.0\ListApplication.deps.json
+D:\TRAINING\ListApplication\bin\Debug\net5.0\ListApplication.runtimeconfig.json
+D:\TRAINING\ListApplication\bin\Debug\net5.0\ListApplication.runtimeconfig.dev.json
+D:\TRAINING\ListApplication\bin\Debug\net5.0\ListApplication.dll
+D:\TRAINING\ListApplication\bin\Debug\net5.0\ref\ListApplication.dll
+D:\TRAINING\ListApplication\bin\Debug\net5.0\ListApplication.pdb
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.csproj.AssemblyReference.cache
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.AssemblyInfoInputs.cache
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.AssemblyInfo.cs
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.csproj.CoreCompileInputs.cache
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.dll
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ref\ListApplication.dll
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.pdb
+D:\TRAINING\ListApplication\obj\Debug\net5.0\ListApplication.genruntimeconfig.cache

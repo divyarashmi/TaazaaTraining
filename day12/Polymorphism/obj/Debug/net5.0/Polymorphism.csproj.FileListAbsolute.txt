@@ -1,0 +1,16 @@
+D:\TRAINING\day12\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+D:\TRAINING\day12\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+D:\TRAINING\day12\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+D:\TRAINING\day12\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+D:\TRAINING\day12\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+D:\TRAINING\day12\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+D:\TRAINING\day12\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+D:\TRAINING\day12\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

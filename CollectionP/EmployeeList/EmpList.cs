@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using  CollectionP.Models;
 namespace CollectionP.EmployeeList
 {
-    public class EmpList:IEmployee
+    public class EmpList
     {
         List<Employee> list = new List<Employee>();
         public void AddEmployee(Employee obj)
