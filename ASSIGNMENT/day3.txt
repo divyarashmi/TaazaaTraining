@@ -1,0 +1,14 @@
+Agenda:- out and ref
+2) A function overloading
+3) Inheritance(type of inheritance)
+4) Method hiding
+5)Use of new keyword
+6) Boxing and unboxing 0r typecasting
+7)*Dynamic and *Var
+8)*Interface
+9) Abstract Class
+10) *Static class
+11)*Static Constructor
+12)Constructor Chaining
+13)*base keyword
+14)*private constructor

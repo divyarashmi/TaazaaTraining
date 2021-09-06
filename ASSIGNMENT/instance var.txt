@@ -1,0 +1,1 @@
+If we declare the variable within the class is said to be by default called instance variable.

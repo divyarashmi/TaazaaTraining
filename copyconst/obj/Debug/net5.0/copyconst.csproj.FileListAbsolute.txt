@@ -1,0 +1,16 @@
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.csproj.AssemblyReference.cache
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.AssemblyInfoInputs.cache
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.AssemblyInfo.cs
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.csproj.CoreCompileInputs.cache
+D:\TRAINING\copyconst\bin\Debug\net5.0\copyconst.exe
+D:\TRAINING\copyconst\bin\Debug\net5.0\copyconst.deps.json
+D:\TRAINING\copyconst\bin\Debug\net5.0\copyconst.runtimeconfig.json
+D:\TRAINING\copyconst\bin\Debug\net5.0\copyconst.runtimeconfig.dev.json
+D:\TRAINING\copyconst\bin\Debug\net5.0\copyconst.dll
+D:\TRAINING\copyconst\bin\Debug\net5.0\ref\copyconst.dll
+D:\TRAINING\copyconst\bin\Debug\net5.0\copyconst.pdb
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.dll
+D:\TRAINING\copyconst\obj\Debug\net5.0\ref\copyconst.dll
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.pdb
+D:\TRAINING\copyconst\obj\Debug\net5.0\copyconst.genruntimeconfig.cache

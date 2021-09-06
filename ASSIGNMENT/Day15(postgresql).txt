@@ -1,0 +1,140 @@
+CREATE PROCEDURE Divya()
+AS $BODY$
+BEGIN
+RAISE NOTICE 'I AM PROCEDURE';
+END;
+$BODY$
+LANGUAGE plpgsql;
+
+
+
+CREATE PROCEDURE Divya()
+AS $BODY$
+BEGIN
+SELECT 'I AM PROCEDURE';
+END;
+$BODY$
+LANGUAGE plpgsql;
+
+CREATE PROCEDURE Divya1()
+AS $BODY$
+BEGIN
+PERFORM 'I AM PROCEDURE';
+END;
+$BODY$
+LANGUAGE plpgsql;
+
+
+ERROR MSG after calling the Divya1()
+
+
+
+
+ASSIGNMENT 
+
+
+
+CREATE DATABASE sqltopost;
+\c sqltopost;
+CREATE TABLE stud
+(
+id INTEGER PRIMARY KEY,
+name VARCHAR(20) NOT NULL
+);
+
+INSERT INTO stud VALUES(101,'divya');
+INSERT INTO stud VALUES(102,'rahul');
+INSERT INTO stud VALUES(103,'karan');
+
+SELECT * FROM stud;
+
+
+
+CREATE FUNCTION countrecord()
+returns integer
+as
+$$
+declare temp integer;
+begin
+temp=count(*) FROM stud;
+return temp;
+end;
+$$
+language plpgsql;
+
+
+select countrecord();
+
+
+
+create function details()
+returns SETOF stud
+as
+$$
+begin
+return query select * from stud;
+end;
+$$
+language plpgsql;
+
+
+select details();
+
+
+
+create or replace function search(id1 integer)
+returns varchar(20)
+as
+$$
+declare temp varchar;
+begin
+temp=(select stud.name from stud where stud.id=id1);
+return temp;
+end;
+$$
+language plpgsql;
+
+
+select search(102);
+
+
+
+
+
+create or replace  procedure myp()
+i integer
+AS
+BEGIN
+
+declare temp integer;
+temp=i+5;
+END;
+
+ declare @t integer
+ exec @t=myp 12
+ select @t
+
+
+ 
+
+
+   create proc myname
+   as
+    begin
+	  select 'i am sakshi gupta' 
+	end
+
+	exec myname
+
+
+
+      
+
+
+
+_______________________C# THREAD_______________________________________
+thread obj=new thread('deligates type')
+1)parameterizedthreadstart.............takes single perameter return as a void   
+2)threadstart...........no perameter and return void
+
+

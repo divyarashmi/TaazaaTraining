@@ -3,3 +3,14 @@ D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.GeneratedMSBuildEditorConfig.
 D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.AssemblyInfoInputs.cache
 D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.AssemblyInfo.cs
 D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.csproj.CoreCompileInputs.cache
+D:\TRAINING\TplProgram\bin\Debug\net5.0\TplProgram.exe
+D:\TRAINING\TplProgram\bin\Debug\net5.0\TplProgram.deps.json
+D:\TRAINING\TplProgram\bin\Debug\net5.0\TplProgram.runtimeconfig.json
+D:\TRAINING\TplProgram\bin\Debug\net5.0\TplProgram.runtimeconfig.dev.json
+D:\TRAINING\TplProgram\bin\Debug\net5.0\TplProgram.dll
+D:\TRAINING\TplProgram\bin\Debug\net5.0\ref\TplProgram.dll
+D:\TRAINING\TplProgram\bin\Debug\net5.0\TplProgram.pdb
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.dll
+D:\TRAINING\TplProgram\obj\Debug\net5.0\ref\TplProgram.dll
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.pdb
+D:\TRAINING\TplProgram\obj\Debug\net5.0\TplProgram.genruntimeconfig.cache
