@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\UserManagementSystem.csproj": {}
+    "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\UserManagementSystem.csproj": {
+    "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\UserManagementSystem.csproj",
+        "projectUniqueName": "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem.csproj",
         "projectName": "UserManagementSystem",
-        "projectPath": "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\UserManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\deepti.bansal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\obj\\",
+        "projectPath": "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\divya.rashmi\\.nuget\\packages\\",
+        "outputPath": "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\deepti.bansal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\divya.rashmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,6 +55,12 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "microsoft.entityframeworkcore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
             }
           },
           "imports": [

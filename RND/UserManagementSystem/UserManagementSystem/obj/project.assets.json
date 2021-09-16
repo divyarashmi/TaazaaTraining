@@ -100,6 +100,18 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll": {}
         }
       },
+      "Microsoft.EntityFrameworkCore.Tools/5.0.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "5.0.10"
+        },
+        "compile": {
+          "lib/netstandard2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/_._": {}
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -526,6 +538,30 @@
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.xml",
         "microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Tools/5.0.10": {
+      "sha512": "tZyRQ01KmPIGXO/jGGG9OrxKvFUckgq65FvGmYjwDazgBXIvfX2kdxXp2nN5gIQOiSMPMpRu8RDqI+2InyBuMg==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.tools/5.0.10",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.1/_._",
+        "microsoft.entityframeworkcore.tools.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.nuspec",
+        "tools/EntityFrameworkCore.PS2.psd1",
+        "tools/EntityFrameworkCore.PS2.psm1",
+        "tools/EntityFrameworkCore.psd1",
+        "tools/EntityFrameworkCore.psm1",
+        "tools/about_EntityFrameworkCore.help.txt",
+        "tools/init.ps1",
+        "tools/net461/any/ef.exe",
+        "tools/net461/win-x86/ef.exe",
+        "tools/netcoreapp2.0/any/ef.dll",
+        "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
@@ -1087,34 +1123,29 @@
       "AutoMapper >= 10.1.1",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.10",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 5.0.7",
-      "Swashbuckle.AspNetCore >= 5.6.3"
+      "Swashbuckle.AspNetCore >= 5.6.3",
+      "microsoft.entityframeworkcore.tools >= 5.0.10"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\deepti.bansal\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\divya.rashmi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\UserManagementSystem.csproj",
+      "projectUniqueName": "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem.csproj",
       "projectName": "UserManagementSystem",
-      "projectPath": "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\UserManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\deepti.bansal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deepti.bansal\\TaazaaTraining\\Day23\\UserManagementSystem\\obj\\",
+      "projectPath": "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\divya.rashmi\\.nuget\\packages\\",
+      "outputPath": "C:\\TaazaaTraining\\RND\\UserManagementSystem\\UserManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\deepti.bansal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\divya.rashmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1150,6 +1181,12 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[5.6.3, )"
+          },
+          "microsoft.entityframeworkcore.tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.0.10, )"
           }
         },
         "imports": [
